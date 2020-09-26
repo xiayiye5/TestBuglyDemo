@@ -12,4 +12,6 @@
 
 4,双击AS右边的gradle一次选择app->tinker-support->buildTinkerPathRelease这个命令生成补丁包即可
 
-5.将生成的补丁包上传后bugly后台即可
+5.在TestBuglyDemo\app\build\outputs\patch\release\patch_signed_7zip.apk将生成的补丁包上传后Bugly后台即可
+
+腾讯Bugly官方视频讲解：https://v.qq.com/s/videoplus/512786315#uin=9f3b4b1232819f453becd2356a3493c4
