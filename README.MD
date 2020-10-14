@@ -15,3 +15,5 @@
 5.在TestBuglyDemo\app\build\outputs\patch\release\patch_signed_7zip.apk将生成的补丁包上传后Bugly后台即可
 
 腾讯Bugly官方视频讲解：https://v.qq.com/s/videoplus/512786315#uin=9f3b4b1232819f453becd2356a3493c4
+
+关于热更新推荐非常详细的一篇文章：https://www.cnblogs.com/huihuizhang/p/11216343.html
